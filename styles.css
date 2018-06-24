@@ -1,0 +1,14 @@
+body {
+  background: black;
+}
+@media {
+  img.paper {
+    max-width: 10%;
+  }
+}
+/* .paper {
+  max-width: 10%;
+}
+.scissors {
+  max-width: 10%;
+} */
